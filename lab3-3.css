@@ -1,0 +1,14 @@
+b.yellow-bg { background: yellow;
+    text-decoration-line: underline; 
+}
+
+span.gray-bg{ background: gray;
+}
+
+input{ background: gray;
+}
+
+#year{ color: red; 
+    font-style:italic;
+    font-weight: bold;
+}
